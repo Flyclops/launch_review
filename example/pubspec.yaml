@@ -2,7 +2,7 @@ name: launch_review_example
 description: Demonstrates how to use the launch_review plugin.
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: ">=3.2.3 <4.0.0"
 
 dependencies:
   flutter:
